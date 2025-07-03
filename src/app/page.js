@@ -173,6 +173,49 @@ export default function Home() {
             </div>
           </div>
           
+          {/* Lembar Mewarnai Examples */}
+          <div className="mb-16">
+            <h3 className="text-2xl font-bold text-center text-gray-800 mb-8">Lembar Digital Mewarnai</h3>
+            <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4 max-w-6xl mx-auto">
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Avengers_removed_page-0001.jpg" alt="Lembar Mewarnai Avengers" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Disney Mixed_removed_page-0001.jpg" alt="Lembar Mewarnai Disney" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Doraemon_removed_page-0001.jpg" alt="Lembar Mewarnai Doraemon" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Dragon Ball Z_removed_page-0001.jpg" alt="Lembar Mewarnai Dragon Ball Z" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Minions_removed_page-0001.jpg" alt="Lembar Mewarnai Minions" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/My Little Pony Twilight Sparkle_removed_page-0001.jpg" alt="Lembar Mewarnai My Little Pony" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Naruto_removed_page-0001.jpg" alt="Lembar Mewarnai Naruto" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/OnePiece_removed_page-0001.jpg" alt="Lembar Mewarnai One Piece" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Pokemon_removed_page-0001.jpg" alt="Lembar Mewarnai Pokemon" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Sanrio_removed_page-0001.jpg" alt="Lembar Mewarnai Sanrio" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Spongebob_removed_page-0001.jpg" alt="Lembar Mewarnai Spongebob" width={200} height={280} className="w-full h-auto" />
+              </div>
+              <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:scale-105 transition-transform">
+                <Image src="/Contoh Halaman Lembar Mewarnai/Transformers_removed_page-0001.jpg" alt="Lembar Mewarnai Transformers" width={200} height={280} className="w-full h-auto" />
+              </div>
+            </div>
+          </div>
+          
           <div className="text-center">
             <a href="https://wa.me/6287712780990" 
                className="inline-block bg-gradient-to-r from-pink-500 to-purple-600 text-white px-8 py-4 rounded-full font-bold text-lg hover:from-pink-600 hover:to-purple-700 transition-all transform hover:scale-105">
